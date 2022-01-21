@@ -10,12 +10,6 @@
 * Data Warehouse = 
 * Data Lake = 
 * ETL = Extract, Transform, Load
-# Queries
-* Highest Salary in each department
-```sql
-SELECT EmpID , Name, Salary, DeptId FROM Employee 
-where ( DeptId,Salary ) in ( select DeptId, max(salary) from Employee group by DeptId )
-```
 
 # Reference
 * [Difference between Data Base // Data Warehouse // Data Lake](https://www.youtube.com/watch?v=WgIbvkyY4mI)
