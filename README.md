@@ -2,7 +2,6 @@
 * Database =
 
 # To Read
-* Spring internally uses HikariCP connection pool by default
 
 # Terminology
 * Data Base =
