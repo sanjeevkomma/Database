@@ -1,18 +1,14 @@
 # Definition
 * Database =
 
-| JDBC | #JPA | #Hibernate |
-| :---: | :---: | :---: |
-| HikariCP – Spring  |  |  |
 # To Read
-# Termionology
+* Spring internally uses HikariCP connection pool by default
+
+# Terminology
 * Data Base =
 * Data Warehouse = 
 * Data Lake = 
 * ETL = Extract, Transform, Load
-
-# Reference
-* [Difference between Data Base // Data Warehouse // Data Lake](https://www.youtube.com/watch?v=WgIbvkyY4mI)
 
 # Database Types
 | #DB | #DB Type | 
@@ -30,4 +26,9 @@
 | Amazon Dynamo DB   |  | 
 | HBase  | SQL RDBMS | 
 | H2 Database   | In Memory Java Database  | 
+
+# Tutorial
+
+# Reference
+* [Difference between Data Base // Data Warehouse // Data Lake](https://www.youtube.com/watch?v=WgIbvkyY4mI)
 
