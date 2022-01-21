@@ -11,15 +11,11 @@
 * Data Lake = 
 * ETL = Extract, Transform, Load
 # Queries
-#User
-create
+* Highest Salary in each department
 ```sql
-create user romulus from login romulus
+SELECT EmpID , Name, Salary, DeptId FROM Employee where ( DeptId,Salary ) in ( select DeptId, max(salary) from Employee group by DeptId )
 ```
-drop
-```sql
-drop user romulus
-```
+
 # Reference
 * [Difference between Data Base // Data Warehouse // Data Lake](https://www.youtube.com/watch?v=WgIbvkyY4mI)
 
