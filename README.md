@@ -25,7 +25,7 @@
 | Amazon Dynamo DB   |  | 
 | HBase  | SQL RDBMS | 
 | H2 Database   | In Memory Java Database  | 
-| Redis Database | |
+| Redis Database | No SQL -- Key Value pair |
 
 # Tutorial
 
