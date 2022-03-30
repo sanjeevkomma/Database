@@ -3,7 +3,9 @@
 * Database Synchronous = 
 * Database Asynchronous = 
 * Consistancy Models OR Consistancy Alogirithams = Read After Write Consistancy
-* 
+* Replication Lag = 
+* Synchronous Replication =
+* Asynchronous Replication =
 
 # Reference
 * [Database Replication | Synchronous vs Asynchronous](https://www.youtube.com/watch?v=RIcNswROzCc)
