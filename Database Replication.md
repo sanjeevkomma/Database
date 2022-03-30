@@ -6,6 +6,13 @@
 * Replication Lag = 
 * Synchronous Replication = All replicas have to be updated before host is acknowledged
 * Asynchronous Replication = Host is acknowledged after primary DB is updated. Replicas update asynchronously
+* Semi Synchronous Replication = 
+
+# Terminology 
+| #Feature  | #Comments |
+| :---: | :---: | 
+| Consistancy |  |
+| Performance |  |
 
 # Reference
 * [Database Replication | Synchronous vs Asynchronous](https://www.youtube.com/watch?v=RIcNswROzCc)
