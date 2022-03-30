@@ -2,7 +2,7 @@
 * Databse Replication = 
 * Database Synchronous = 
 * Database Asynchronous = 
-* Consistancy Models / Consistancy Alogirithams = Read After Write Consistancy
+* Consistancy Models OR Consistancy Alogirithams = Read After Write Consistancy
 * 
 
 # Reference
