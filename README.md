@@ -2,6 +2,7 @@
 * Database =
 
 # To Read
+* Data Source may not be connected to DB, it can be just file system or any source of data
 
 # Terminology
 * Data Base =
