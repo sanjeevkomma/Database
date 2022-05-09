@@ -37,4 +37,6 @@
 # Images
 1. RDBMS VS MangoDB
 * ![image](https://user-images.githubusercontent.com/7721150/167446876-b5830400-b14a-43b8-a42b-7dbc81dfd1d3.png)
+* ![image](https://user-images.githubusercontent.com/7721150/167462027-509f64e0-1d05-4e88-b64a-9bb4a2143090.png)
+
 
