@@ -34,3 +34,7 @@
 * [Difference between Data Base // Data Warehouse // Data Lake](https://www.youtube.com/watch?v=WgIbvkyY4mI)
 * [Difference between Database and Data Source](https://stackoverflow.com/questions/3698044/difference-between-database-and-data-source#:~:text=A%20data%20source%20is%20simply,provide%20data%20to%20your%20programs.)
 
+# Images
+1. RDBMS VS MangoDB
+* ![image](https://user-images.githubusercontent.com/7721150/167446876-b5830400-b14a-43b8-a42b-7dbc81dfd1d3.png)
+
