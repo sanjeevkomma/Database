@@ -7,6 +7,7 @@
 | Function | Function is a set of SQL statements that perform a specific task | 
 | Stored Procedure | Stored procedure is a prepared SQL code |
 | Materialized View| 1.Materialized view is a database object that contains the results of a query 2. Materialized Views are stored on the disc. 3. Reduce the execution time for complex queries with JOINs and aggregate functions | 
+|group by| |
 
 # Reference
 * [W3Schools SQL](https://www.w3schools.com/sql/)
