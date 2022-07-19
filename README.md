@@ -1,5 +1,5 @@
 # Definition
-* Database =
+* Database = Database is an organized collection of data, so that it can be easily accessed and managed
 
 # To Read
 * Data Source may not be connected to DB, it can be just file system or any source of data
